@@ -14,11 +14,11 @@
         <link rel="stylesheet" type="text/css" media="all" href="http://yui.yahooapis.com/2.3.0/build/base/base-min.css" />
         <link rel="stylesheet" type="text/css" media="all" href="http://yui.yahooapis.com/2.3.1/build/fonts/fonts-min.css" />
         {{ $style := resources.Get "css/highlight.css" | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" type="text/css" media="all" href="{{ $style.Permalink }}" />
+        <link rel="stylesheet" type="text/css" media="all" href="{{ $style.RelPermalink }}" />
         {{ $style := resources.Get "css/print.css" | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" type="text/css" media="print" href="{{ $style.Permalink }}" />
+        <link rel="stylesheet" type="text/css" media="print" href="{{ $style.RelPermalink }}" />
         {{ $style := resources.Get "css/main.css" | resources.Minify | resources.Fingerprint }}
-        <link rel="stylesheet" type="text/css" media="screen" href="{{ $style.Permalink }}" />
+        <link rel="stylesheet" type="text/css" media="screen" href="{{ $style.RelPermalink }}" />
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/sunburst.min.css">
         <link rel="alternate" type="application/rss+xml" title="Fabien Potencier's feed" href="http://feeds.fabien.potencier.org/aidedecamp" />
 
