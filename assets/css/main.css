@@ -100,12 +100,6 @@ h4
   letter-spacing: -0.03em;
 }
 
-.clear
-{
-  clear: both;
-  height: 0;
-}
-
 #header
 {
   text-align: center;
@@ -137,26 +131,6 @@ h4
   display: inline;
 }
 
-.radio_list
-{
-  margin: 0;
-}
-
-.radio_list li
-{
-  display: inline;
-  margin-right: 10px;
-  list-style: none;
-}
-
-.subtitle
-{
-  padding: 0;
-  margin: 0;
-  font-size: 0.8em;
-  color: #666;
-}
-
 div.item_list
 {
   margin: 0;
@@ -167,18 +141,6 @@ div.item_list
 div.item
 {
   padding: 5px 0;
-}
-
-.pdf
-{
-  padding-left: 20px;
-  background: url(/images/pdf.png) no-repeat center left;
-}
-
-.all_link
-{
-  text-align: right;
-  margin-bottom: 15px;
 }
 
 table th
@@ -292,44 +254,9 @@ blockquote.sidebar p.title
   font-style: italic;
 }
 
-#talk_slides
-{
-  width: 620px;
-  margin: 0 auto;
-}
-
-.talk_navigation
-{
-  padding: 2px 5px;
-  width: 610px;
-  font-size: 0.9em;
-}
-
-#adc_comment_body
-{
-  width: 400px;
-  height: 200px;
-}
-
 #content .content
 {
   margin-top: 30px;
-}
-
-.books
-{
-  margin: 0;
-  padding: 0;
-  margin: 0;
-  margin-bottom: 10px;
-}
-
-.books li
-{
-  margin: 0;
-  padding: 0;
-  display: inline;
-  list-style: none;
 }
 
 #content p, #content
@@ -337,6 +264,7 @@ blockquote.sidebar p.title
   color: #333;
   font-size: 20px;
   line-height: 1.5em;
+  margin-top: 0;
 }
 
 .anchor {
