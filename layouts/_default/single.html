@@ -1,0 +1,11 @@
+{{ define "header" }}
+    <h1>{{ .Title }}</h1>
+    <h2><a href="/">Fabien Potencier</a></h2>
+    {{ if .Date }}
+        <h3>{{ .Date | time.Format ":date_medium" }}</h3>
+    {{ end }}
+{{ end }}
+
+{{ define "main" }}
+    {{ .Content }}
+{{ end }}

@@ -1,0 +1,11 @@
+baseURL: 'https://fabien.potencier.org/'
+languageCode: 'en-us'
+title: 'Fabien Potencier'
+disableKinds: ['taxonomy', 'term']
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+module:
+  imports:
+    - path: github.com/martignoni/hugo-notice

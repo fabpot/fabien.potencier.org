@@ -1,0 +1,17 @@
+{{ define "header" }}
+    <h1>{{ .Title }}</h1>
+{{ end }}
+
+{{ define "main" }}
+  <div class="item_list content">
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+      <article class="item">
+        <h4>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <span style="margin-left: 10px; font-size: 13px; color: #aaa"><em>{{ .Date.Format "January 2, 2006" }}</em></span>
+        </h4>
+        <div><p>{{ .Summary }}</p></div>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}
