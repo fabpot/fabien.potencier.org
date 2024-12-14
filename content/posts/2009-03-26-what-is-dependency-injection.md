@@ -16,12 +16,12 @@ aliases:
 This article is part of a series on Dependency Injection in general and on a
 lightweight implementation of a Container in PHP in particular:
 
- * [Part 1: What is Dependency Injection? ](http://fabien.potencier.org/article/11/what-is-dependency-injection)
- * [Part 2: Do you need a Dependency Injection Container? ](http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
- * [Part 3: Introduction to the Symfony Service Container](http://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
- * [Part 4: Symfony Service Container: Using a Builder to create Services](http://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
- * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](http://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
- * [Part 6: The Need for Speed](http://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
+ * [Part 1: What is Dependency Injection? ](https://fabien.potencier.org/article/11/what-is-dependency-injection)
+ * [Part 2: Do you need a Dependency Injection Container? ](https://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
+ * [Part 3: Introduction to the Symfony Service Container](https://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
+ * [Part 4: Symfony Service Container: Using a Builder to create Services](https://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
+ * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](https://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
+ * [Part 6: The Need for Speed](https://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
 {{< /notice >}}
 
 This article is the first of a series on Dependency Injection in general and
@@ -344,7 +344,7 @@ recommend you read the
 or the excellent
 [Jeff More presentation](http://www.procata.com/talks/phptek-may2007-dependency.pdf).
 You can also have a look at a
-[presentation](http://fabien.potencier.org/talk/19/decouple-your-code-for-reusability-ipc-2008)
+[presentation](https://fabien.potencier.org/talk/19/decouple-your-code-for-reusability-ipc-2008)
 I gave last year on Dependency Injection, where I talk in more detail
 on the example I have talked about in this article.
 

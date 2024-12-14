@@ -73,7 +73,7 @@ Last year, I co-created such an organization:
 [FriendsOfPhp](https://github.com/FriendsOfPhp). A couple of weeks ago, I moved
 the PHP security advisories database from the [sensiolabs](https://github.com/sensiolabs) organization to the
 [FriendsOfPhp](https://github.com/FriendsOfPhp/security-advisories) one
-and I explained my [motivations](http://fabien.potencier.org/article/74/the-php-security-advisories-database) in a blog post.
+and I explained my [motivations](https://fabien.potencier.org/article/74/the-php-security-advisories-database) in a blog post.
 
 Today, I'm doing the same with several of my projects that were previously part
 of my personal Github account. I have not created an organization per project

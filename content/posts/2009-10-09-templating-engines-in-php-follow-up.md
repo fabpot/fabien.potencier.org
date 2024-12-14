@@ -11,7 +11,7 @@ aliases:
 ---
 
 My post about
-[template engines in PHP](http://fabien.potencier.org/article/34/templating-engines-in-php)
+[template engines in PHP](https://fabien.potencier.org/article/34/templating-engines-in-php)
 received more than *70 comments* as of now, and counting.
 That's a lot considering most of them are really well thought out, and backed with solid
 counter-arguments. Thanks everybody for taking the time to participate
@@ -275,7 +275,7 @@ is done in one single PHP process.
 {{< /notice >}}
 
 You can download the benchmark code here: 
-http://fabien.potencier.org/benchmarks.tgz
+https://fabien.potencier.org/benchmarks.tgz
 
 Twig and Symfony
 ----------------

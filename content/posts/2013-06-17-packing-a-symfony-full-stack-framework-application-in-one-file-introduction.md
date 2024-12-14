@@ -15,8 +15,8 @@ aliases:
 This article is part of a series of articles that explains how to pack a Symfony
 full-stack application in one file. The first article explains why this might actually
 be useful:
-1) [Introduction](http://fabien.potencier.org/article/69/packing-a-symfony-full-stack-framework-application-in-one-file-introduction),
-2) [Bootstrapping](http://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping),
+1) [Introduction](https://fabien.potencier.org/article/69/packing-a-symfony-full-stack-framework-application-in-one-file-introduction),
+2) [Bootstrapping](https://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping),
 ...
 {{< /notice >}}
 
@@ -28,7 +28,7 @@ because I like to push the limits of what's possible when coding.
 In 1985, my first useful piece of code was about managing a portfolio of
 stocks for my parents. I was twelve years old at that time. I won a contest.
 It was an interesting challenge: coding a full game in less than [10 lines of
-code](http://fabien.potencier.org/article/32/developers-should-be-artists).
+code](https://fabien.potencier.org/article/32/developers-should-be-artists).
 And my code was published in a French magazine.
 
 In 2009, I tweeted an implementation of a [dependency injection
@@ -62,7 +62,7 @@ First, that's a good way to learn more about the Symfony internals and
 especially about the [Kernel](http://api.symfony.com/2.3/index.html) class.
 Nowadays, thanks to all the talks about HttpKernel given by various speakers
 at various conferences, and thanks to my [series of
-articles](http://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1)
+articles](https://fabien.potencier.org/article/50/create-your-own-framework-on-top-of-the-symfony2-components-part-1)
 about it on my blog, a lot of developers understand how Symfony handles
 requests and how it manages the conversion to responses. There is even a full
 [chapter](http://symfony.com/doc/current/components/http_kernel/introduction.html)

@@ -18,12 +18,12 @@ aliases:
 This article is part of a series on Dependency Injection in general and on a
 lightweight implementation of a Container in PHP in particular:
 
- * [Part 1: What is Dependency Injection? ](http://fabien.potencier.org/article/11/what-is-dependency-injection)
- * [Part 2: Do you need a Dependency Injection Container? ](http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
- * [Part 3: Introduction to the Symfony Service Container](http://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
- * [Part 4: Symfony Service Container: Using a Builder to create Services](http://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
- * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](http://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
- * [Part 6: The Need for Speed](http://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
+ * [Part 1: What is Dependency Injection? ](https://fabien.potencier.org/article/11/what-is-dependency-injection)
+ * [Part 2: Do you need a Dependency Injection Container? ](https://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
+ * [Part 3: Introduction to the Symfony Service Container](https://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
+ * [Part 4: Symfony Service Container: Using a Builder to create Services](https://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
+ * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](https://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
+ * [Part 6: The Need for Speed](https://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
 {{< /notice >}}
 
 During the first five articles of this series on Dependency Injection, we have
@@ -72,7 +72,7 @@ configuration is very powerful and flexible:
 
 But, on the other hand, defining the service
 container as a plain PHP class gives you the full speed, as seen during the
-[second article](http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
+[second article](https://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
 of this series:
 
 
@@ -272,7 +272,7 @@ This representation can be converted to an image by using the
 
     $ dot -Tpng /somewhere/container.dot > /somewhere/container.png
 
-![Zend_Mail container PNG representation](http://fabien.potencier.org/media/articles/di/zend-mail.png)
+![Zend_Mail container PNG representation](https://fabien.potencier.org/media/articles/di/zend-mail.png)
 
 For this simple example, the visualization has no real added value, but as
 soon as you start having more than a few services, it can be quite useful...
@@ -297,7 +297,7 @@ As a teaser for the next Symfony component that will be released later this
 month, here is the graph for an hypothetic CMS using the Symfony 2 new
 Templating Framework:
 
-![Symfony 2 Templating Framework](http://fabien.potencier.org/media/articles/di/template.png)
+![Symfony 2 Templating Framework](https://fabien.potencier.org/media/articles/di/template.png)
 
 That's all for this series on Dependency Injection. I hope you have learned
 something reading these articles. I also hope you will try the Symfony 2

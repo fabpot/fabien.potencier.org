@@ -12,7 +12,7 @@ aliases:
 ---
 
 Some people emailed me about a blog
-[post](http://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures)
+[post](https://fabien.potencier.org/article/17/on-php-5-3-lambda-functions-and-closures)
 I wrote some time ago about a dependency injection container done in PHP 5.3.
 I have published on [Github](http://github.com/fabpot/twittee) the small
 version of it ([Twittee](http://twittee.org/)), but not the "working" version.

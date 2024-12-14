@@ -88,14 +88,14 @@ normalize-space(@class), ' '), ' foo ')]`.
 
 Let's take an example to see how you can use it. Let's say you want to
 retrieve all post titles and URLs for this blog (the information is available
-at `http://fabien.potencier.org/articles`).
+at `https://fabien.potencier.org/articles`).
 
 
 ```php
 use Symfony\Components\CssSelector\Parser;
 
 $document = new \DOMDocument();
-$document->loadHTMLFile('http://fabien.potencier.org/articles');
+$document->loadHTMLFile('https://fabien.potencier.org/articles');
 
 $xpath = new \DOMXPath($document);
 foreach ($xpath->query(Parser::cssToXpath('div.item > h4 > a')) as $node)
@@ -120,7 +120,7 @@ well-formed XML documents:
 
 
 ```php
-$document = new \SimpleXMLElement('http://fabien.potencier.org/articles', 0, true);
+$document = new \SimpleXMLElement('https://fabien.potencier.org/articles', 0, true);
 $document->registerXPathNamespace('xhtml', 'http://www.w3.org/1999/xhtml');
 foreach ($document->xpath(Parser::cssToXpath('xhtml|div.item > xhtml|h4 > xhtml|a')) as $node)
 {

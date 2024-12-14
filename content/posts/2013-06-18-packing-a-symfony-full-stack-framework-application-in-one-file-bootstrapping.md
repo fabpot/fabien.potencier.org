@@ -15,8 +15,8 @@ aliases:
 This article is part of a series of articles that explains how to pack a Symfony
 full-stack application in one file. The first article explains why this might actually
 be useful:
-1) [Introduction](http://fabien.potencier.org/article/69/packing-a-symfony-full-stack-framework-application-in-one-file-introduction),
-2) [Bootstrapping](http://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping),
+1) [Introduction](https://fabien.potencier.org/article/69/packing-a-symfony-full-stack-framework-application-in-one-file-introduction),
+2) [Bootstrapping](https://fabien.potencier.org/article/70/packing-a-symfony-full-stack-framework-application-in-one-file-bootstrapping),
 ...
 {{< /notice >}}
 

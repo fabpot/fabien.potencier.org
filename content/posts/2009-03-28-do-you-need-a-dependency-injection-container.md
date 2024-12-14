@@ -18,15 +18,15 @@ aliases:
 This article is part of a series on Dependency Injection in general and on a
 lightweight implementation of a Container in PHP in particular:
 
- * [Part 1: What is Dependency Injection? ](http://fabien.potencier.org/article/11/what-is-dependency-injection)
- * [Part 2: Do you need a Dependency Injection Container? ](http://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
- * [Part 3: Introduction to the Symfony Service Container](http://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
- * [Part 4: Symfony Service Container: Using a Builder to create Services](http://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
- * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](http://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
- * [Part 6: The Need for Speed](http://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
+ * [Part 1: What is Dependency Injection? ](https://fabien.potencier.org/article/11/what-is-dependency-injection)
+ * [Part 2: Do you need a Dependency Injection Container? ](https://fabien.potencier.org/article/12/do-you-need-a-dependency-injection-container)
+ * [Part 3: Introduction to the Symfony Service Container](https://fabien.potencier.org/article/13/introduction-to-the-symfony-service-container)
+ * [Part 4: Symfony Service Container: Using a Builder to create Services](https://fabien.potencier.org/article/14/symfony-service-container-using-a-builder-to-create-services)
+ * [Part 5: Symfony Service Container: Using XML or YAML to describe Services](https://fabien.potencier.org/article/15/symfony-service-container-using-xml-or-yaml-to-describe-services)
+ * [Part 6: The Need for Speed](https://fabien.potencier.org/article/16/symfony-service-container-the-need-for-speed)
 {{< /notice >}}
 
-In the [first installment](http://fabien.potencier.org/article/11/what-is-dependency-injection)
+In the [first installment](https://fabien.potencier.org/article/11/what-is-dependency-injection)
 of this series on Dependency Injection, I have tried to give concrete web
 examples of Dependency Injection in action. Today, I will talk about
 Dependency Injection Containers.

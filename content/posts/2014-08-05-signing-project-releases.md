@@ -13,7 +13,7 @@ aliases:
 
 About a year ago, I started to sign all my Open-Source project releases. I briefly mentioned it during my [SymfonyCon keynote in Warsaw](https://www.youtube.com/watch?v=qlrwfOL0230&list=UULdVmxwj9dQqM8tJJp2LYGw), but this post is going to give you some more details.
 
-Whenever I release a new version of a project, I sign the Git tag with my [PGP key](http://pgp.mit.edu:11371/pks/lookup?search=0xeb8aa69a566c0795&op=vindex&fingerprint=on&exact=on): [`DD4E C589 15FF 888A 8A3D D898 EB8A A69A 566C 0795`](http://fabien.potencier.org/about).
+Whenever I release a new version of a project, I sign the Git tag with my [PGP key](http://pgp.mit.edu:11371/pks/lookup?search=0xeb8aa69a566c0795&op=vindex&fingerprint=on&exact=on): [`DD4E C589 15FF 888A 8A3D D898 EB8A A69A 566C 0795`](https://fabien.potencier.org/about).
 
 Checking Git Tag Signatures
 ---------------------------

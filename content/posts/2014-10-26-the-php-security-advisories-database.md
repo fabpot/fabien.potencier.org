@@ -44,7 +44,7 @@ decided to move the repository from the SensioLabs organization to the
 I hope that these changes will help the broader PHP community. So, who wants to
 help?
 
-[1]: http://fabien.potencier.org/article/67/don-t-use-php-libraries-with-known-security-issues
+[1]: https://fabien.potencier.org/article/67/don-t-use-php-libraries-with-known-security-issues
 [2]: https://security.sensiolabs.org/check
 [3]: https://github.com/sensiolabs/security-checker
 [4]: https://security.sensiolabs.org/api

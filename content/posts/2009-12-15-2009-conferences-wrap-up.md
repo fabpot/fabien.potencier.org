@@ -48,23 +48,23 @@ conferences, where I always meet a lot of friends.
 
 Thanks to all conference organizers for giving me these great opportunities.
 
-All my slides are available in the [talk](http://fabien.potencier.org/talks)
+All my slides are available in the [talk](https://fabien.potencier.org/talks)
 section of this website, and also on
 [Slideshare](http://www.slideshare.net/fabpot).
 
 Here is a list of the most interesting/up-to-date talks I gave this year:
 
- * <a href="http://fabien.potencier.org/talk/30/dependency-injection-ipc-2009">Dependency Injection with PHP and PHP 5.3</a>
+ * <a href="https://fabien.potencier.org/talk/30/dependency-injection-ipc-2009">Dependency Injection with PHP and PHP 5.3</a>
 
- * <a href="http://fabien.potencier.org/talk/29/symfony-components-ipc-2009">Symfony Components: What's in for you?</a>
+ * <a href="https://fabien.potencier.org/talk/29/symfony-components-ipc-2009">Symfony Components: What's in for you?</a>
 
- * <a href="http://fabien.potencier.org/talk/28/playing-with-PHP53">Jouons avec PHP 5.3</a>
+ * <a href="https://fabien.potencier.org/talk/28/playing-with-PHP53">Jouons avec PHP 5.3</a>
 
- * <a href="http://fabien.potencier.org/talk/33/php-barcelona-symfony-2-0-on-PHP-5-3">Symfony 2.0 on PHP 5.3</a>
+ * <a href="https://fabien.potencier.org/talk/33/php-barcelona-symfony-2-0-on-PHP-5-3">Symfony 2.0 on PHP 5.3</a>
 
- * <a href="http://fabien.potencier.org/talk/27/symfony-and-zend-framework-together-2009">Using Zend Framework and Symfony Together</a>
+ * <a href="https://fabien.potencier.org/talk/27/symfony-and-zend-framework-together-2009">Using Zend Framework and Symfony Together</a>
 
- * <a href="http://fabien.potencier.org/talk/31/twig-zend-unconference-2009">Twig, the flexible, fast, and secure template language for PHP</a>
+ * <a href="https://fabien.potencier.org/talk/31/twig-zend-unconference-2009">Twig, the flexible, fast, and secure template language for PHP</a>
 
 2009 is coming to an end, and 2010 is already almost here. I'm going to be
 doing a fair bit of traveling early next year as I will speak at least at

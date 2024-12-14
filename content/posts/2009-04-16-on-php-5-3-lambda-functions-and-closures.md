@@ -161,7 +161,7 @@ $user = $container->user;
 
 {{< notice note >}}
 The examples I use in this article are the same as the one I have used in my
-series on [dependency injection](http://fabien.potencier.org/article/11/what-is-dependency-injection).
+series on [dependency injection](https://fabien.potencier.org/article/11/what-is-dependency-injection).
 {{< /notice >}}
 
 The definition of an object is done by defining a lambda function that returns
